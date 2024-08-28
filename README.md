@@ -17,7 +17,7 @@ A simple and secure password generator that creates random passwords using a mix
 1. Clone the repository or download the files.
 
     ```bash
-    git clone https://github.com/your-username/random-password-generator.git
+    git clone https://github.com/ivarungupta/random-password-generator.git
     ```
 
 2. Open `index.html` in your web browser.
