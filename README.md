@@ -52,6 +52,4 @@ A simple and secure password generator that creates random passwords using a mix
 
 Feel free to fork this repository and submit pull requests. Any improvements or suggestions are welcome!
 
-## License
-
-This project is licensed under the MIT License.
+## Thanks
